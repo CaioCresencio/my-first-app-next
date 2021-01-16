@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 
 const data = {
   item: [
-    'code','coffee','repeat'    
+    'code','coffee','repeat','test commit'    
   ]
 }
 export default function Home() {
